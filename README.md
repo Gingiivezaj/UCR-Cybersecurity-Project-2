@@ -13,4 +13,4 @@
 **Notes**
 
 - This project was performed in an Azure Lab Services environment
-- Please see the presentation above for a full breakdown of the network, vulnerabilities discovered, and mitigation strategy recommendations.
+- Please see the [presentation](https://github.com/Gingiivezaj/UCR-Cybersecurity-Project-2/blob/main/Project%202%20slides%20Final.pdf) above for a full breakdown of the network, vulnerabilities discovered, and mitigation strategy recommendations.
